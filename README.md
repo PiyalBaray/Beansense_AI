@@ -55,7 +55,7 @@ The trained model is integrated with a Gradio web interface where users can ente
 9. Saving the Trained Model
 10. Building the Gradio Web Application
 
-## 🤖 Algorithms Compared
+##  Algorithms Compared
 
 The following 10 classification algorithms were evaluated:
 
